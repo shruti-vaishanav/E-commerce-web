@@ -1,2 +1,3 @@
-# E-commerce-web
-Design liabrary- MaterialUI , Tailwind
+# E-commerce-ts
+🔵 Typescript
+🟡 Design liabrary- MaterialUI , Tailwind
